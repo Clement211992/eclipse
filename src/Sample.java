@@ -5,7 +5,7 @@ public class Sample {
 		
 	}
 	
-	public static void user2AddsMethod2()
+	public static void user1AddsMethod1()
 	{
 		
 	}
