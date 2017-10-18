@@ -4,5 +4,12 @@ public class Sample {
 		System.out.println("Hello World!");
 		
 	}
+	
+	public static void user2AddsMethod2()
+	{
+		
+	}
+	
+	
 
 }
